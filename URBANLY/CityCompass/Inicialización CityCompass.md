@@ -1,0 +1,1 @@
+La aplicación comienza desde el [[App.tsx]] 
